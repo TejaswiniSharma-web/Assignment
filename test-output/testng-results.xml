@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9271" started-at="2019-06-30T07:27:52Z" finished-at="2019-06-30T07:28:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9271" started-at="2019-06-30T07:27:52Z" finished-at="2019-06-30T07:28:01Z">
+      <class name="registeration.Login">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:registeration.Login@8bd1b6a]" name="openbrowser" is-config="true" duration-ms="3378" started-at="2019-06-30T07:27:52Z" finished-at="2019-06-30T07:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="Tc002()[pri:0, instance:registeration.Login@8bd1b6a]" name="Tc002" duration-ms="5890" started-at="2019-06-30T07:27:55Z" finished-at="2019-06-30T07:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc002 -->
+      </class> <!-- registeration.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
